@@ -15,6 +15,7 @@ Output
 
 _© 2022 XYZ, Inc._
 Typo fixed
+HEAD
 Typo fix line
 Typo fix line
 Typo fix line
@@ -22,3 +23,5 @@ Typo fix line
 Typo fix line
 Typo fix line
 Typo fix line
+
+bug-fix-typo
