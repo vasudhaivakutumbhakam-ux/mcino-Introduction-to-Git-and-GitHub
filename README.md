@@ -1,3 +1,5 @@
+
+
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
@@ -15,6 +17,9 @@ Output
 
 _© 2022 XYZ, Inc._
 Typo fixed
+bug-fix-typo
+Second typo fix
+
 HEAD
 Typo fix line
 Typo fix line
@@ -25,3 +30,5 @@ Typo fix line
 Typo fix line
 
 bug-fix-typo
+main
+
